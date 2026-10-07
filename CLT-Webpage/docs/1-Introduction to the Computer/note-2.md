@@ -35,7 +35,7 @@ A computer can process data at an extremely high speed. It can execute millions 
 
 > **Key idea:** Computers are capable of processing large amounts of data at very high speeds.
 
-The source material expresses computer speed in **MHz**. 
+The computing speed are measured in **MHz**. 
 
 ---
 
@@ -150,6 +150,8 @@ They used:
 
 These methods were useful for simple counting but became inadequate as calculations became more complex. 
 
+
+![](../../static/img/Chap1-1.jpeg)
 ---
 
 ## 2. The Abacus
@@ -162,6 +164,8 @@ The abacus was a counting device consisting of **sliding beads arranged on a rac
 
 The abacus represents an important early stage in the development of computing because it provided a structured method for performing calculations.
 
+
+![](../../static/img/Chap1-2.jpeg)
 ---
 
 ## 3. Napier's Bones and the Slide Rule
@@ -173,6 +177,7 @@ As the need for more advanced calculations increased, other calculating devices 
 
 These devices improved the ability to perform mathematical calculations compared with simple manual counting methods. 
 
+![](../../static/img/Chap1-3.jpeg)
 ---
 
 ## 4. Pascaline — 1642
@@ -181,10 +186,7 @@ In **1642**, French mathematician **Blaise Pascal** invented the **Pascaline**, 
 
 It was a brass rectangular mechanical calculator that used movable components to perform addition. 
 
-### Key Point
-
-**Blaise Pascal → Pascaline → 1642**
-
+![](../../static/img/Chap1-4.jpeg)
 ---
 
 ## 5. Stepped Reckoner — 1694
@@ -198,11 +200,7 @@ His machine, known as the **Stepped Reckoner**, could perform:
 * Division
 * Square-root calculations
 
-
-
-### Key Point
-
-**Leibniz → Stepped Reckoner → 1694**
+![](../../static/img/Chap1-5.jpeg)
 
 ---
 
@@ -214,10 +212,7 @@ In **1822**, Babbage proposed a machine called the **Difference Engine**, design
 
 Babbage is therefore an important figure in the history of computing.
 
-### Key Point
-
-**Charles Babbage → Difference Engine → 1822**
-
+![](../../static/img/Chap1-6.jpeg)
 ---
 
 ## 7. Herman Hollerith — 1889
@@ -228,6 +223,7 @@ His method used **cards to store data**, which were fed into a machine that mech
 
 This represented an important development in the automated processing of large quantities of information.
 
+![](../../static/img/Chap1-7.jpeg)
 ---
 
 ## 8. Harvard Mark I — 1944
@@ -236,6 +232,7 @@ In **1944**, the **Mark I** was built through a partnership between **Harvard Ai
 
 The machine used **relays and electromagnetic components** to replace mechanical components. 
 
+![](../../static/img/Chap1-8.jpeg)
 ---
 
 ## 9. ENIAC — 1946
@@ -246,6 +243,7 @@ In **1946**, **John Eckert and John Mauchly** developed **ENIAC**, which stands 
 
 ENIAC used **electronic vacuum tubes** in its internal components. 
 
+![](../../static/img/Chap1-9.jpeg)
 ---
 
 ## 10. EDVAC
@@ -255,6 +253,8 @@ Eckert and Mauchly also proposed the development of **EDVAC**:
 > **Electronic Discrete Variable Automatic Computer**
 
 EDVAC was the first electronic computer in the course material to use the **stored-program concept**, associated with **John von Neumann**. 
+
+![](../../static/img/Chap1-10.jpeg)
 
 ### Why was the stored-program concept important?
 
@@ -270,6 +270,7 @@ In **1949**, at Cambridge University, **Maurice Wilkes** developed **EDSAC**, me
 
 The machine used **mercury delay lines for memory** and **vacuum tubes for logic**. 
 
+![](../../static/img/Chap1-11.jpeg)
 ---
 
 ## 12. UNIVAC — 1951
@@ -278,29 +279,30 @@ In **1951**, the **Eckert–Mauchly Corporation** manufactured **UNIVAC**, meani
 
 > **Universal Automatic Computer**
 
-According to the course material, its implementation marked the **real beginning of the computer era**. 
+Its implementation marked the **real beginning of the computer era**. 
 
+![](../../static/img/Chap1-12.jpeg)
 ---
+### First NASA Astronaut in Orbit (1962): watched 2016 Hidden Figures movie ?
+- Astronaut John Glenn became the first American to fully orbit the Earth on February 20, 1962.
 
-# Evolution of Computers at a Glance
+In the movie Hidden Figures, the computing room scenes center on Dorothy Vaughan and her team of African-American female mathematicians (known as "human computers") working in the segregated West Area Computing unit at NASA’s Langley Research Center.
+![](../../static/img/Chap1-13.jpeg)
 
-|             Year | Development                             | Main Significance                         |
-| ---------------: | --------------------------------------- | ----------------------------------------- |
-| **Early period** | Fingers, pebbles and sand               | Basic counting                            |
-| **Early period** | **Abacus**                              | Systematic calculation using beads        |
-|                — | **Napier's Bones / Slide Rule**         | Improved mathematical calculations        |
-|         **1642** | **Pascaline — Blaise Pascal**           | Functional automatic calculator           |
-|         **1694** | **Stepped Reckoner — Leibniz**          | Multiplication, division and square roots |
-|         **1822** | **Difference Engine — Charles Babbage** | Important step toward modern computing    |
-|         **1889** | **Hollerith's punched-card system**     | Automated data processing                 |
-|         **1944** | **Mark I**                              | Electromechanical computing               |
-|         **1946** | **ENIAC**                               | Electronic vacuum-tube computing          |
-|                — | **EDVAC**                               | Stored-program concept                    |
-|         **1949** | **EDSAC**                               | Electronic stored-memory computing        |
-|         **1951** | **UNIVAC**                              | Beginning of the computer era             |
+**Key Events in the Computing Room & IBM Transition**
+
+- Segregated Work Area: Dorothy and her co-workers perform complex mathematical calculations by hand using mechanical calculators in a separate, racially segregated office away from white employees.
 
 
 
+- The Arrival of the IBM 7090: NASA purchases and installs a massive, room-filling IBM 7090 electronic computer meant to automate calculations and threaten the jobs of the human computers.
+
+- Self-Taught FORTRAN: Realizing that the electronic machine will render her department obsolete unless someone knows how to run it, Dorothy sneaks a book on FORTRAN (an early computer programming language) from a whites-only public library section.
+
+- Mastering the Machine: Dorothy teaches herself FORTRAN, trains all the women in the West Area computing group, and sneaks into the computer room to successfully turn on and operate the IBM mainframe when engineers struggle to get it working.
+
+
+- Historic Promotion: Impressed by her initiative and the readiness of her team, NASA officially promotes Dorothy to supervisor of the Programming Department, and she negotiates the transfer of her entire team of West Area women to work alongside her on the new system.
 
 # COMPUTER GENERATIONS
 
@@ -317,6 +319,9 @@ The five generations discussed in this section are:
 ---
 
 ## A. First Generation (1940–1956): Vacuum Tubes
+
+
+![](../../static/img/Chap1-14.jpg)
 
 The **first generation computers** were based on **vacuum tubes (thermionic valves)**. They used:
 
@@ -340,13 +345,12 @@ A **magnetic drum** is a metal cylinder coated with magnetic iron-oxide material
 * They were **very large** and required a lot of space for installation.
 * They were **non-portable** and very slow equipment.
 
-### Key Point
-
-> **First Generation = Vacuum Tubes + Magnetic Drums**
 
 ---
 
 ## B. Second Generation (1956–1963): Transistors
+
+![](../../static/img/Chap1-15.jpeg)
 
 The second generation of computers was based on **transistors**.
 
@@ -382,13 +386,13 @@ Computers of this generation became:
 * They were **more portable**.
 * They generated **less heat**.
 
-### Key Point
-
-> **Second Generation = Transistors + Smaller and More Efficient Computers**
 
 ---
 
 ## C. Third Generation (1964–Early 1970): Integrated Circuits
+
+![](../../static/img/Chap1-16.jpeg)
+
 
 The major development of the third generation was the **integrated circuit (IC)**.
 
@@ -419,13 +423,12 @@ Instead of relying mainly on punched cards and printouts, users interacted with 
 * They reduced computational time from **microseconds to nanoseconds**.
 * Extensive use of **high-level languages** became possible.
 
-### Key Point
-
-> **Third Generation = Integrated Circuits + Keyboards and Monitors**
 
 ---
 
 ## D. Fourth Generation (Early 1970–Till Date): Microprocessors
+
+![](../../static/img/Chap1-17.jpg)
 
 The fourth generation was still based on **integrated-circuit technology**, but the development of the **microprocessor** made this technology readily available for use.
 
@@ -467,81 +470,53 @@ As a result, fourth-generation computers became:
 * **GUI and pointing devices** enable users to learn to use computers quickly.
 * Interconnection of computers leads to better **communication and resource sharing**.
 
-### Key Point
 
-> **Fourth Generation = Microprocessors + LSI/VLSI/ULSI**
-
+![](../../static/img/Chap1-18.jpeg)
 ---
 
 ## E. Fifth Generation (Present and Beyond): Artificial Intelligence
 
 The fifth generation represents the development of computers toward **Artificial Intelligence (AI)**.
 
-The course material describes the fifth generation as a stage in which a computer would **learn from its mistakes and possess the skills of experts**.
 
-The starting point for the fifth generation of computers was set in the **early 1990s**.
+### 1. Artificial Intelligence Hardware Accelerators
 
-### Expert Systems
+AI hardware accelerators are specialized processors designed to execute the heavy matrix math and parallel computations required for machine learning much faster and more energy-efficiently than standard CPUs.
 
-An **expert system** is defined in the material as a computer information system that attempts to **mimic the thought process and reasoning of experts in specific areas**.
+* **GPU**
+- [Nvidia Graphics Cards](https://www.nvidia.com/en-us/geforce/graphics-cards/)
+![](../../static/img/Chap1-19.jpeg)
+* **TPU**
+![](../../static/img/Chap1-20.jpeg)
+- [Google Tensor Processing Units](https://cloud.google.com/tpu)
+* **NPU**
+![](../../static/img/Chap1-21.jpg)
+- [FuriosaAI NPU](https://furiosa.ai/architecture)
 
-Three major characteristics associated with fifth-generation computers are:
 
-1. **Mega Chips**
-2. **Parallel Processing**
-3. **Artificial Intelligence**
 
+### 2. Mega Chips (System on a Chip)
+A System on a Chip (SoC) is defined as an integrated circuit that combines multiple cores, such as CPUs, GPUs, and other functional units, along with memory, input/output ports, and sometimes modems on a single substrate. 
+
+* SoCs are miniaturized IC devices that integrate all the essential components of a computer or electronic system onto a single microchip. Imagine having a central processing unit (CPU), memory, input/output (I/O) interfaces, and even specialized processors like graphics processing units (GPUs) all condensed onto a tiny silicon chip. 
+
+
+
+* SoCs are ubiquitous in modern electronics, powering everything from smartphones and laptops to wearables and smart home devices.
+
+![](../../static/img/Chap1-23.jpg)
+
+- [Apple unleashes M5, the next big leap in AI performance for Apple silicon](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
+
+![](../../static/img/Chap1-22.png)
+
+
+
+### 3. Parallel Processing and Distributed Training
+
+**Parallel processing and distributed training** splits AI heavy workloads across multiple GPUs, CPU cores, or networked machines to speed up training process.
+
+![](../../static/img/Chap1-24.png)
+
+- [Kempner AI Cluster](https://kempnerinstitute.harvard.edu/kempner-ai-cluster/)
 ---
-
-### 1. Mega Chips
-
-Fifth-generation computers will use **super-large-scale integrated (SLSI) chips**.
-
-These chips will result in the production of microprocessors containing **millions of electronic components on a single chip**.
-
-**Key idea:**
-
-> More electronic components can be integrated into a single chip.
-
----
-
-### 2. Parallel Processing
-
-**Parallel processing** allows a computer to access several instructions at once and work on them at the same time.
-
-This is achieved through the use of **multiple Central Processing Units (CPUs)**.
-
-**Key idea:**
-
-> **Parallel processing = Several instructions processed at the same time.**
-
----
-
-### 3. Artificial Intelligence (AI)
-
-Artificial Intelligence comprises a group of related technologies, including:
-
-* **Expert Systems (ES)**
-* **Natural Language Processing (NLP)**
-* **Speech Recognition**
-* **Vision Recognition**
-* **Robotics**
-
-These technologies are associated with the development of computers capable of performing tasks associated with intelligent behaviour.
-
----
-
-# Summary of Computer Generations
-
-| Generation | Period               | Main Technology         | Important Features                                           | Examples                                                 |
-| ---------- | -------------------- | ----------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
-| **First**  | 1940–1956            | Vacuum tubes            | Magnetic drums, punched cards, paper tape, printouts         | ENIAC, EDVAC, UNIVAC                                     |
-| **Second** | 1956–1963            | Transistors             | Smaller, faster, cheaper, less heat                          | PDP-8, IBM 1401, IBM 7090                                |
-| **Third**  | 1964–Early 1970      | Integrated circuits     | Keyboards, monitors, operating systems, high-level languages | NCR 395, B6500                                           |
-| **Fourth** | Early 1970–Till Date | Microprocessors         | LSI, VLSI, ULSI, GUI, resource sharing                       | Apple II, Altair 8800, CRAY-1                            |
-| **Fifth**  | Present and Beyond   | Artificial Intelligence | Mega chips, parallel processing, AI technologies             | Expert systems, NLP, speech/vision recognition, robotics |
-
----
-
-
-

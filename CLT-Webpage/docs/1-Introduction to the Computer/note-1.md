@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# Computer Literacy vs Computer
+# Computer Literacy 
 
 `Computer Literacy` is defined as the ability to effectively use computer technologies and software for information retrieval, data evaluation, problem-solving and digital tools confidently to complete everyday tasks, like creating documents, sending email, browsing the web, and managing files.
 
@@ -30,7 +30,7 @@ Computer literacy encompasses a range of competencies that enable individuals to
 
 
 
-## Why Is Computer Literacy Important?
+## Why Is Computer Literacy Important
 
 Computer literacy is an essential competency in modern society because computers, digital platforms, and artificial intelligence increasingly shape how people work, learn, communicate, access services, and make decisions. Its importance extends beyond simply knowing how to operate a computer; it involves using technology effectively, safely, critically, and responsibly.
 

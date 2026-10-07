@@ -14,6 +14,7 @@ Computers are classified into **four major categories**:
 ---
 
 ## 1. Microcomputers
+![](../../static/img/Chap1-25.jpg)
 
 A **microcomputer** is a small, low-cost digital computer. It usually consists of:
 
@@ -89,6 +90,7 @@ PDAs are essentially **small portable computers** and are slightly larger than c
 ---
 
 # 2. Minicomputers
+![](../../static/img/Chap1-26.jpg)
 
 A **minicomputer** is a small digital computer whose **processing and storage capacity** is:
 
@@ -119,6 +121,7 @@ High-performance workstations with **graphics I/O capability** also use minicomp
 ---
 
 # 3. Mainframe Computers
+![](../../static/img/Chap1-27.jpeg)
 
 A **mainframe computer** is an **ultra-high-performance computer** designed for **high-volume, processor-intensive computing**.
 
@@ -152,6 +155,7 @@ Mainframe computers are typically used by:
 ---
 
 # 4. Supercomputers
+![](../../static/img/Chap1-27.jpeg)
 
 **Supercomputers** are special-purpose machines specially designed to maximise the number of **FLOPS (Floating-Point Operations Per Second)**.
 
@@ -186,18 +190,7 @@ The course material also identifies major commercial use in the:
 * CRAY-3
 * Cyber 205
 * PARAM
-
----
-
-# Summary of Classification of Computers
-
-| Category          | Main Description                                             | Typical Use/Feature                        |
-| ----------------- | ------------------------------------------------------------ | ------------------------------------------ |
-| **Microcomputer** | Small, low-cost digital computer                             | Individual use; desktops, laptops and PDAs |
-| **Minicomputer**  | More powerful than a microcomputer but less than a mainframe | Multi-user and interactive applications    |
-| **Mainframe**     | High-performance computer for large-scale data processing    | Large businesses and scientific purposes   |
-| **Supercomputer** | Highest processing speed for specialised computation         | Scientific and engineering problems        |
-
+* [NVIDIA Powers World’s Largest Quantum Research Supercomputer](https://nvidianews.nvidia.com/news/nvidia-powers-worlds-largest-quantum-research-supercomputer)
 ---
 
 
@@ -410,44 +403,6 @@ The course material lists the Output Unit as one of the three major units:
 
 ---
 
-# Basic Computer Organization – Summary
-
-```text
-                 COMPUTER SYSTEM
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-        ▼              ▼              ▼
-   INPUT UNIT          CPU       OUTPUT UNIT
-                       │
-             ┌─────────┼─────────┐
-             │         │         │
-             ▼         ▼         ▼
-        CONTROL      ALU      MEMORY
-         UNIT                  UNIT
-                                │
-                       ┌────────┴────────┐
-                       │                 │
-                       ▼                 ▼
-                  PRIMARY            SECONDARY
-                  STORAGE             STORAGE
-```
-
-## Quick Revision Table
-
-| Unit                  | Main Function                                                                                     |
-| --------------------- | ------------------------------------------------------------------------------------------------- |
-| **Input Unit**        | Accepts data and instructions and supplies them to the computer for processing                    |
-| **CPU**               | Performs calculations, makes decisions, interprets instructions, and controls computer operations |
-| **Control Unit**      | Directs and coordinates the flow of data and instructions                                         |
-| **ALU**               | Performs arithmetic and logical operations                                                        |
-| **Memory Unit**       | Stores data, instructions, and information                                                        |
-| **Primary Storage**   | Fast storage for programs, input data, and intermediate/final results                             |
-| **Secondary Storage** | Auxiliary storage for programs, documents, databases, and other information                       |
-| **Output Unit**       | One of the three major functional units of the computer system                                    |
-
----
-
 
 # The Computing Processing Cycle
 
@@ -524,55 +479,6 @@ The stored result can then be used by the next instruction or made available to 
 
 > The CPU asks, **“Where should I save the result?”**
 
----
-
-## Continuous Processing Cycle
-
-The four stages do not occur only once. The CPU continuously repeats them for every instruction in a program.
-
-```text
-             ┌─────────────┐
-             │    FETCH    │
-             │ Get the next│
-             │ instruction │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    DECODE   │
-             │ Interpret   │
-             │ instruction │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │   EXECUTE   │
-             │ Perform the │
-             │   operation  │
-             └──────┬──────┘
-                    ↓
-             ┌─────────────┐
-             │    STORE    │
-             │ Save result │
-             └──────┬──────┘
-                    │
-                    └──────────→ FETCH
-```
-
-Thus, the cycle can be summarized as:
-
-**Fetch → Decode → Execute → Store → Fetch → Decode → Execute → Store → …**
-
-The cycle continues as long as the computer is processing instructions.
-
-## Key Components Involved
-
-| Component             | Main role in the cycle                                |
-| --------------------- | ----------------------------------------------------- |
-| **CPU**               | Coordinates and performs instruction processing       |
-| **Program Counter**   | Keeps track of the next instruction                   |
-| **Control Unit (CU)** | Directs and coordinates instruction processing        |
-| **ALU**               | Performs arithmetic and logical operations            |
-| **Registers**         | Provide very fast temporary storage during processing |
-| **RAM**               | Holds active instructions and data                    |
 
 ## Example: Calculating a Spreadsheet Total
 
